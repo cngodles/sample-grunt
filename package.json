@@ -1,0 +1,25 @@
+{
+  "name": "sample-grunt",
+  "version": "1.0.0",
+  "description": "A test using Grunt with Windows",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cngodles/sample-grunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cngodles/sample-grunt/issues"
+  },
+  "homepage": "https://github.com/cngodles/sample-grunt#readme"
+}
